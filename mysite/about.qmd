@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+Hi! My name is Stephanie Ta. I'm a curent UBC MDS student.
